@@ -2,6 +2,8 @@
 
 Docker Grafana: https://dev.to/project42/install-grafana-influxdb-telegraf-using-docker-compose-56e9
 
+Dahsboard: https://grafana.com/grafana/dashboards/11969
+
 Original: https://community.jitsi.org/t/how-to-to-setup-grafana-dashboards-to-monitor-jitsi-my-comprehensive-tutorial-for-the-beginner/38696
 
 
