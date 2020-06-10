@@ -1,6 +1,10 @@
 #How-to to setup Grafana dashboards to monitor Jitsi, my comprehensive tutorial for the beginner
 
+Docker Grafana: https://dev.to/project42/install-grafana-influxdb-telegraf-using-docker-compose-56e9
+
 Original: https://community.jitsi.org/t/how-to-to-setup-grafana-dashboards-to-monitor-jitsi-my-comprehensive-tutorial-for-the-beginner/38696
+
+
 
 Who has read my earlier post about setting up 2 servers with jitsi and jibri (How-to to setup integrated Jitsi and Jibri for dummies, my comprehensive tutorial for the beginner 112), knows about my setup. Now I will show how I was able to setup a working dashboard to monitor the Jitsi Meet server based on the rest api provided by Jitsi. This will require installation of Grafana (dashboards), InfluxDB (performance database) and Telegraf (data collector).
 
